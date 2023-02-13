@@ -2,3 +2,13 @@ body {
     background-image: url("../img/anchain.jpg");
     background-size: 800px ;
        }
+       .fbott {
+        font-size: larger;
+        background-color: #199319;
+        color: white;
+        padding: 10px 20px;
+        text-decoration: none;
+      }
+   .fbott:hover {
+        background-color: #223094;
+      }

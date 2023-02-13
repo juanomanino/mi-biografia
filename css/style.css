@@ -1,4 +1,25 @@
+
+.title {
+     background-color: rgb(43, 39, 41);
+     padding: 20px;
+
+}
 body {
     background-image: url("../img/image.jpg");
     background-size: width=2600 height=10200px ;
        }
+.hoal{
+     background-image: linear-gradient(to bottom right, red, yellow);
+     padding: 20px;
+     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.fbott {
+     font-size: larger;
+     background-color: #199319;
+     color: white;
+     padding: 10px 20px;
+     text-decoration: none;
+   }
+.fbott:hover {
+     background-color: #223094;
+   }
