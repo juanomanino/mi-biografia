@@ -25,4 +25,4 @@ Este es mi primer sitio web. Se trata de mi autobiografía y algunos otros aspec
 
 - Se trata de un stio web a "blanco y negro" (Solo HTMl), que hace uso de todas las etiquetas vistas hasta ahora: tablas, texto, imagenes, videos, formularios, links,etc.
 
-- Cada paágina manejará mínimamente la plantilla de la página index.html
+- Cada página manejará mínimamente la plantilla de la página index.html

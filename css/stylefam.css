@@ -1,0 +1,14 @@
+body {
+    background-image: url("../img/fondo.jpg");
+    background-size: 1100px ;
+       }
+       .fbott {
+        font-size: larger;
+        background-color: #199319;
+        color: white;
+        padding: 10px 20px;
+        text-decoration: none;
+      }
+   .fbott:hover {
+        background-color: #223094;
+      }
