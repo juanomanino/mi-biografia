@@ -1,6 +1,12 @@
+*{
+  box-sizing: border-box;
+  padding: 0;
+  margin:0;
+}
+
 body {
-    background-image: url("../img/fondo1.jpg");
-    background-size: 800px ;
+    background-image: url("../img/black1.jpg");
+    background-size: cover ;
        }
        .fbott {
         font-size: larger;
