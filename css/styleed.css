@@ -16,9 +16,21 @@
 }
 
 body {
-  background-image: url("../img/fondo2.png");
-  background-size: 800px ;
+  margin-left: 5px;
+  margin-right: 5px;
+
+  background-image:linear-gradient(to bottom left, rgb(255, 255, 255), rgb(176, 255, 152));
+  background-size: cover ;
 }
+p{
+  font-size: larger;
+
+}
+
+
+
+
+
 .fbott {
   font-size: larger;
   background-color: #199319;
@@ -27,10 +39,25 @@ body {
   text-decoration: none;
   }
 .fbott:hover {
-  background-color: #223094;
+  background-image: linear-gradient(to bottom right, rgb(126, 247, 142), rgb(0, 139, 173));
+
 }
 
-.foto{
+.izq{
+  float: center;
+
+}
+.cent{
+  float: center;
+
+}
+.cont{
+  display: flex;
+  text-align: center;
+
+
+}
+.der{
   float: center;
 
 }

@@ -16,7 +16,8 @@ body {
         text-decoration: none;
       }
    .fbott:hover {
-        background-color: #223094;
+      background-image: linear-gradient(to bottom right, rgb(126, 247, 142), rgb(0, 139, 173));
+
 
       }
 

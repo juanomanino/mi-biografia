@@ -11,8 +11,14 @@ body {
 .hoal{
      background-image: linear-gradient(to bottom right, red, yellow);
      padding: 20px;
+     font-size: 105%;
      font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
      
+     
+}
+.jo{
+    background-color: rgb(255, 248, 249, 0.5);
 }
 .fbott {
      font-size: larger;
@@ -22,7 +28,8 @@ body {
      text-decoration: none;
    }
 .fbott:hover {
-     background-color: #223094;
+        background-image: linear-gradient(to bottom right, rgb(126, 247, 142), rgb(0, 139, 173));
+
    }
    
    .main-nav{
@@ -62,3 +69,4 @@ body {
      content: " | ";
  
  }
+ 
