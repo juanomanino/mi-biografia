@@ -1,0 +1,12 @@
+
+.c1, .c2, .c3{
+    width: 100%;
+    min-width: 150px;
+    height: 150px;
+    font-size: 18px;
+}
+.c3{
+    position:relative;
+    bottom: -42rem;
+    
+}

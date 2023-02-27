@@ -1,0 +1,13 @@
+.cuerpo{
+    /* display: block; */
+    }
+    .c1, .c2, .c3{
+        width: 100%;
+        min-width: 150px;
+        height: 150px;
+    }
+    .c3{
+
+        bottom: -30rem;
+        
+    }

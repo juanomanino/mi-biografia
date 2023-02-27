@@ -1,17 +1,54 @@
 
+@import url('https://fonts.cdnfonts.com/css/-200');
+
 *{
   box-sizing: border-box;
   padding: 0;
   margin:0;
 }
+
+.title {
+  font-size: 250% ;
+  background-image: linear-gradient(to bottom right, rgb(47, 223, 214), rgb(165, 241, 142));
+  padding: 10px;
+  font-family:fantasy;
+  text-align: center;
+}
+p{
+  color: rgb(0, 0, 0);
+  margin-left: 5px;
+  margin-right: 2px;
+      
+  font-family: 'Ardiga', sans-serif;
+      
+  font-size: 110%;
+}
+h2{
+  font-family: 'vtks Rude Metal', sans-serif;
+  font-size:2.5rem;
+  margin-left: 10px;
+  background: -webkit-linear-gradient(rgb(144, 99, 173), rgb(255, 242, 123));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+}
+h3{
+  font-family: 'vtks Rude Metal', sans-serif;
+  font-size:1.9rem;
+  margin-left: 10px;
+  background: -webkit-linear-gradient(rgb(100, 202, 209), rgb(28, 90, 161));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+}
 body {
-    background-image: url("../img/amig.jpg");
-    background-size: 600px ;
+  background-image: linear-gradient(to bottom right, rgb(172, 255, 251), rgb(126, 161, 255));
+
        }
        .fbott {
         font-size: larger;
         background-color: #199319;
-        color: white;
+        color: rgb(0, 0, 0);
         padding: 10px 20px;
         text-decoration: none;
       }
@@ -19,3 +56,7 @@ body {
       background-image: linear-gradient(to bottom right, rgb(126, 247, 142), rgb(0, 139, 173));
 
       }
+
+#izq{
+  transform:rotate(270deg)
+}

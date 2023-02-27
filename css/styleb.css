@@ -1,12 +1,20 @@
+@import url('https://fonts.cdnfonts.com/css/-200');
+
 *{
   box-sizing: border-box;
   padding: 0;
   margin:0;
 }
 
+.title {
+  font-size: 250% ;
+  background-image: linear-gradient(to bottom right, rgb(164, 224, 221), rgb(165, 241, 142));
+  padding: 10px;
+  font-family:fantasy;
+  text-align: center;
+}
 body {
-    background-image: url("../img/fondo1.jpg");
-    background-size: 800px ;
+    background-image: linear-gradient(to bottom right, rgb(167, 210, 223), rgb(241, 172, 172));
        }
        .fbott {
         font-size: larger;
@@ -22,7 +30,13 @@ body {
       }
 
 p{
+  margin-left: 5px;
+  margin-right: 2px;
+
+  font-family: 'Ardiga', sans-serif;
 
   font-size: 110%;
-  background-color: rgba(255, 255, 255,0.5);
+}
+div{
+  text-align: center;
 }
