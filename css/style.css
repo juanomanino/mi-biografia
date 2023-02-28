@@ -9,7 +9,11 @@
 
 }
 body {
+
+    
     background-image: url("../img/image.jpg");
+    -webkit-filter: invert(100%);
+    filter: invert(100%);
     background-size: width=2600 height=10200px ;
     background-attachment: fixed;
        }
@@ -26,14 +30,19 @@ body.inverted{
      font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
      font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
 
+    
+
 
 }
+
+
 .jo{
     background-color: rgb(255, 248, 249, 0.5);
 }
 .fbott {
      font-size: larger;
      background-color: #199319;
+     line-height: 3;
      color: white;
      padding: 10px 20px;
      text-decoration: none;

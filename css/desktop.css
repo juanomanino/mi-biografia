@@ -1,13 +1,21 @@
-.cuerpo{
-    /* display: block; */
-    }
-    .c1, .c2, .c3{
+
+.c1, .c2, .c3{
         width: 100%;
         min-width: 150px;
-        height: 150px;
-    }
-    .c3{
+        height: 70px;
+}
+.c3{
+    bottom: -37rem; 
+}
 
-        bottom: -30rem;
-        
+    .hoal br{
+        display:none
+    }
+    .hoal span{
+        font-size: 0;
+        display: block;
+    }
+    .fbott{
+        line-height: normal;
+
     }
